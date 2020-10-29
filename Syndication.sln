@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30509.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Syndication", "Syndication\Syndication.csproj", "{26C4F2F9-4C10-49D3-AC28-2DA42C1CE75B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26C4F2F9-4C10-49D3-AC28-2DA42C1CE75B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26C4F2F9-4C10-49D3-AC28-2DA42C1CE75B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26C4F2F9-4C10-49D3-AC28-2DA42C1CE75B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26C4F2F9-4C10-49D3-AC28-2DA42C1CE75B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7B6F461-29A6-47F0-BC84-51C269D5D0B6}
+	EndGlobalSection
+EndGlobal
